@@ -4,7 +4,7 @@ If an agent already exists, configuration will ask you if you want to replace it
 
 If you are reconfiguring the agent, then choose Y.
 
-If you intended to actually replace an different agent, ensure the other agent is unconfigured.  If two instances run with the same agent name, one will get a conflict.  After a few minutes of conflicts, one will shut down.
+If you intended to actually replace a different agent, ensure the other agent is unconfigured.  If two instances run with the same agent name, one will get a conflict.  After a few minutes of conflicts, one will shut down.
 
 ```bash
 Enter agent name (press enter for mymachine) > 
